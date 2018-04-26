@@ -1,6 +1,6 @@
 # webapp vue2.x仿饿了么app项目总结
 
-  项目地址：https://github.com/harrietjia/vue2webapp.git
+  项目地址：https://github.com/harrietjia/vue2-webapp.git
 
   *如果觉得对您有帮助，希望可以在右上角给我个star支持一下，谢谢！*
 
@@ -168,7 +168,7 @@ index.styl是stylus文件的入口文件，里面使用@import 引入各种styl�
 ### 项目运行
 ```
 克隆项目到本地
-git clone https://github.com/harrietjia/vue2webapp.git
+git clone https://github.com/harrietjia/vue2-webapp.git
 
 安装依赖
 npm install
