@@ -185,3 +185,8 @@ node prod.server.js
 会看到 Listening at http://localhost:9000 在浏览器中打开即可
 
 ```
+### 项目演示
+
++ PC端[点击预览](http://73eabb3f-d836-425b-87b0-2d13a4c1c73d.coding.io/#/goods) <br>
+移动端也可扫描以下二维码预览
+<img src="" alt="扫码查看演示">
